@@ -1,3 +1,5 @@
+//check input is odd or even
+
 package javafundamentals;
 import java.util.Scanner;
 public class oddeven {
